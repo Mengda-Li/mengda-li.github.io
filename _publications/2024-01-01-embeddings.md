@@ -1,7 +1,7 @@
 ---
 title: "Mathematics of Embeddings: Spillover of Polarities Over Financial Texts"
 collection: publications
-category: journals
+category: manuscripts
 excerpt: 'Reviews in Modern Quantitative Finance, pp. 151-188 (2024)'
 date: 2024-04-01
 venue: 'Annual Review in Modern Quantitative Finance'
