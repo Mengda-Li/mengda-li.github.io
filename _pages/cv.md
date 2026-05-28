@@ -13,16 +13,15 @@ Education
 ======
 * **Ph.D. in Data Science**, The Chinese University of Hong Kong, Shenzhen (2025 - Present)
 * **Master MVA: Mathematics, Computer Vision, Machine Learning**, École Normale Supérieure Paris-Saclay (2018 - 2020)
-* **Bachelor of Mathematics with studies in Computer Science**, Sorbonne Université (2015 - 2018)
+* **Bachelor of Mathematics**, Sorbonne Université (2015 - 2018)
 
 Work experience
 ======
 * **Machine Learning Engineer**, Alibaba - Ant Group (Alipay), Hangzhou (01.2022 - 02.2023)
-  * Implement and deploy algorithms on time series prediction, anomaly detection, online optimization and natural language processing. Analyse massive financial data with distributed computing.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
